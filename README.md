@@ -3,7 +3,7 @@
 
 Code your solution in the `meal_choice.rb` file. 
 
-Your job is to define three methods, `breakfast`, `lunch` and `dinner` that take in a food as a string and returns a string stating the appropriate time to eat that food. For example, calling `breakfast("scrambled eggs")` should return something like `"Morning is the best time for scrambled eggs!"`
+Your job is to define three methods, `breakfast`, `lunch` and `dinner` that take in a food as a string and returns a string stating the appropriate time to eat that food. For example, calling `breakfast("scrambled eggs")` should return something like `"Morning is the best time for scrambled eggs!"
 
 **Include a default meal_choice** for each method so that if no food is specified, it defaults to the following foods:
 
