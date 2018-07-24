@@ -7,7 +7,7 @@
 
 
 def breakfast(food = "frosted flakes")
-"The best breakfast food is #{food}!"
+puts "The best breakfast food is #{food}!"
 end
 
 # # Call the methods with puts and your own arguments here. Like this:
