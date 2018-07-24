@@ -10,11 +10,12 @@ def breakfast(food = "frosted flakes")
 puts "The best breakfast food is #{food}!"
 end
 
-breakfast
+breakfast("pancakes")
 
 def lunch(food = "grilled cheese")
   puts "My favorite dish for lunch is #{food}."
 end
+
 
 lunch
 
@@ -22,7 +23,7 @@ def dinner(food = "Salmon, burgers")
   puts "#{food} is the best beacuse it is tasty and is good for you!"
 end 
 
-dinner("burgers")
+dinner("Burgers")
 
 # # Call the methods with puts and your own arguments here. Like this:
 # puts snacks("Swedish fish")
