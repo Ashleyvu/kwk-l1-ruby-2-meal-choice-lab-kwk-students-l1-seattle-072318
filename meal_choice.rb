@@ -9,7 +9,7 @@ def breakfast(food = "frosted flakes, pancakes")
 puts "The best breakfast food is #{food}!"
 end
 
-breakfast(pancakes)
+breakfast("pancakes")
 
 def lunch(food = "grilled cheese, macaroni")
   puts "My favorite dish for lunch is #{food}."
