@@ -13,16 +13,16 @@ end
 breakfast
 
 def lunch(food = "grilled cheese")
-  puts "My favorite lunch meal is #{food}"
+  puts "My favorite dish for lunch is #{food}."
 end
 
 lunch
 
-def dinner(food = "salmon")
+def dinner(food = "Salmon")
   puts "#{food} is the best beacuse it is tasty and is good for you!"
 end 
 
-dinner
+dinner(pancakes)
 
 # # Call the methods with puts and your own arguments here. Like this:
 # puts snacks("Swedish fish")
